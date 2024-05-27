@@ -1,0 +1,1 @@
+AzureVision OCR Flask App
